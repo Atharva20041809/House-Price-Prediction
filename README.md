@@ -9,7 +9,7 @@
 
 ## 🚀 Live Demo
 
-👉 *Add your Streamlit link here after deployment*
+https://house-price-prediction-nmigus4tx852ovyhhqz36u.streamlit.app/
 
 ### 📌 How it works:
 - User enters house details (area, quality, garage, etc.)
